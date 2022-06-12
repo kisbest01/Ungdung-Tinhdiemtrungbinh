@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background-color:   #d3d3d3;
+}
+label {
+	font-weight: bold;
+	color: blue;
+}
+input {
+	padding: 5px;
+}
+table {
+	margin: 10px 0px;
+}
+table ,th, td {
+	border: 1px solid black;
+}
+th {
+	background-color: yellow;
+}
+input[type="button"] {
+	background-color: blue;
+	color: white;
+	margin: 5px;
+}
+input[type="button"]:hover {
+	color: yellow;
+	font-weight: bold;
+}
